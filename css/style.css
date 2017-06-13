@@ -1,0 +1,35 @@
+
+h1 {
+    font-family: arial;
+    text-align: center;
+}
+h2{
+    text-indent: 40px;
+}
+
+h3 {
+    text-indent: 40px;
+}
+p {
+    text-indent: 40px;
+    font-family: arial;
+    font-size: 18px;
+}
+img{
+    border-radius: 8px;
+    margin: 0px 40px;
+}
+figure {
+    display: inline-table;
+    text-align: center;
+    font-family: arial;
+    font-size: 12px;
+}
+a {
+    font-size: 18px;
+}
+ul li {
+    margin: 10px;
+    font-family: arial;
+    font-size: 16px;
+}

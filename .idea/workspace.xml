@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb83a577-372f-4b60-9cb9-585197436dd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_acai.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_basicila_santuario.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_estacao_das_docas.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_lenda_do_acai.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_mangal_das_garcas.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_pato_no_tucupi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_tacaca.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_theatro_da_paz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_vatapa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_carimbo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_iara.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detalhes_lenda_da_mandioca.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_acai.html" afterPath="$PROJECT_DIR$/detalhes_acai.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_basicila_santuario.html" afterPath="$PROJECT_DIR$/detalhes_basicila_santuario.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_estacao_das_docas.html" afterPath="$PROJECT_DIR$/detalhes_estacao_das_docas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_lenda_do_acai.html" afterPath="$PROJECT_DIR$/detalhes_lenda_do_acai.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_mangal_das_garcas.html" afterPath="$PROJECT_DIR$/detalhes_mangal_das_garcas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_pato_no_tucupi.html" afterPath="$PROJECT_DIR$/detalhes_pato_no_tucupi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_tacaca.html" afterPath="$PROJECT_DIR$/detalhes_tacaca.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_theatro_da_paz.html" afterPath="$PROJECT_DIR$/detalhes_theatro_da_paz.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhes_vatapa.html" afterPath="$PROJECT_DIR$/detalhes_vatapa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,40 +34,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="75" column="30" lean-forward="false" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="48" />
-              <folding>
-                <element signature="n#figure#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#figure#7;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detalhes_lenda_do_acai.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/detalhes_lenda_do_acai.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detalhes_pato_no_tucupi.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detalhes_pato_no_tucupi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +50,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -84,18 +60,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/detalhes_basicila_santuario.html" />
-        <option value="$PROJECT_DIR$/detalhes_mangal_das_garcas.html" />
-        <option value="$PROJECT_DIR$/detalhes_estacao_das_docas.html" />
-        <option value="$PROJECT_DIR$/detalhes_theatro_da_paz.html" />
-        <option value="$PROJECT_DIR$/detalhes_tacaca.html" />
-        <option value="$PROJECT_DIR$/detalhes_pato_no_tucupi.html" />
         <option value="$PROJECT_DIR$/detalhes_caruru.html" />
-        <option value="$PROJECT_DIR$/detalhes_acai.html" />
         <option value="$PROJECT_DIR$/detalhes_arroz_de_pato.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/detalhes_vatapa.html" />
+        <option value="$PROJECT_DIR$/detalhes_acai.html" />
+        <option value="$PROJECT_DIR$/detalhes_basicila_santuario.html" />
+        <option value="$PROJECT_DIR$/detalhes_carimbo.html" />
+        <option value="$PROJECT_DIR$/detalhes_iara.html" />
         <option value="$PROJECT_DIR$/detalhes_lenda_do_acai.html" />
+        <option value="$PROJECT_DIR$/detalhes_mangal_das_garcas.html" />
+        <option value="$PROJECT_DIR$/detalhes_estacao_das_docas.html" />
+        <option value="$PROJECT_DIR$/detalhes_lenda_da_mandioca.html" />
+        <option value="$PROJECT_DIR$/detalhes_pato_no_tucupi.html" />
+        <option value="$PROJECT_DIR$/detalhes_tacaca.html" />
+        <option value="$PROJECT_DIR$/detalhes_theatro_da_paz.html" />
+        <option value="$PROJECT_DIR$/detalhes_vatapa.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -143,6 +123,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olhosembelem.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olhosembelem.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -152,8 +146,9 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.detalhes_acai.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/olhosembelem.github.io/index.html">
       <method />
     </configuration>
@@ -219,8 +214,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.detalhes_acai.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.detalhes_acai.html" />
       </list>
     </recent_temporary>
   </component>
@@ -234,19 +229,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497373849223</updated>
-      <workItem from="1497373854422" duration="8427000" />
+      <workItem from="1497373854422" duration="11322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8427000" />
+    <option name="totallyTimeSpent" value="11322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="24" width="1315" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31254753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31254753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -275,66 +270,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/detalhes_basicila_santuario.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_estacao_das_docas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_mangal_das_garcas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_acai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_theatro_da_paz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_vatapa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_tacaca.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="75" column="30" lean-forward="false" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="48" />
+        <state relative-caret-position="75">
+          <caret line="5" column="64" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="64" />
           <folding>
             <element signature="n#figure#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#figure#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -344,22 +283,114 @@
             <element signature="n#figure#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#figure#6;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#figure#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#figure#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#figure#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#figure#10;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#figure#11;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detalhes_pato_no_tucupi.html">
+    <entry file="file://$PROJECT_DIR$/detalhes_carimbo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="1">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_basicila_santuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_acai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_estacao_das_docas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_iara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_lenda_da_mandioca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/detalhes_lenda_do_acai.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="-59">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_pato_no_tucupi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_mangal_das_garcas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_tacaca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_theatro_da_paz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhes_vatapa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
