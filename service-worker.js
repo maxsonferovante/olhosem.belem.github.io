@@ -13,21 +13,24 @@ var urlsToCache = [
     'detalhes_lenda_da_mandioca.html',
     'detalhes_lenda_do_acai.html',
     'detalhes_carimbo.html',
-    'img/acai.jpg',
-    'img/basilica_Santuario_de_Nossa_Senhora_de_Nazare.jpg',
-    'img/iara.jpg',
-    'img/mandioca.jpg',
-    'img/a_lenda_do_acai.jpg',
-    'img/arroz_de_pato.jpg',
-    'img/teatro_Paz.jpg',
-    'img/tacaca.png',
-    'img/carimbo.jpg',
-    'img/caruru.jpg',
-    'img/pato_no_tucupi.jpg',
-    'img/vatapa.jpg',
-    'img/estacao_das_docas.jpg',
-    'img/mangal_das_garcas.jpg',
+    
+    'img/comidas/acai.jpg',
+    'img/comidas/tacaca.png',
+    'img/comidas/pato_no_tucupi.jpg',
+    'img/comidas/vatapa.jpg',
+    
+    'img/lendas/iara.jpg',
+    'img/lendas/mandioca.jpg',
+    'img/lendas/a_lenda_do_acai.jpg',
+    'img/lendas/carimbo.jpg',
+    
+    'img/pontos/teatro_Paz.jpg',
+    'img/pontos/basilica_Santuario_de_Nossa_Senhora_de_Nazare.jpg',
+    'img/pontos/estacao_das_docas.jpg',
+    'img/pontos/mangal_das_garcas.jpg',
+
     'css/style.css',
+    
     'js/app.js',
     'js/eventListeners.js'
 ];
