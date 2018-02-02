@@ -3,23 +3,23 @@
   "short_name": "Olhos em Belém",  
   "icons": [
     {
-    "src": "img/icones/mipmap-mdpi/ic_launcher.png",
+    "src": "img/icons/mipmap-mdpi/ic_launcher.png",
       "sizes": "48x48",
       "type": "image/png"
     },{
-    "src": "img/icones/mipmap-hdpi/ic_launcher.png",
+    "src": "img/icons/mipmap-hdpi/ic_launcher.png",
       "sizes": "72x72",
       "type": "image/png"
     },{
-    "src": "img/icones/mipmap-xhdpi/ic_launcher.png",
+    "src": "img/icons/mipmap-xhdpi/ic_launcher.png",
       "sizes": "96x96",
       "type": "image/png"
     },{
-    "src": "img/icones/mipmap-xxhdpi/ic_launcher.png",
+    "src": "img/icons/mipmap-xxhdpi/ic_launcher.png",
       "sizes": "144x144",
       "type": "image/png"
     },{
-    "src": "img/icones/mipmap-xxxhdpi/ic_launcher.png",
+    "src": "img/icons/mipmap-xxxhdpi/ic_launcher.png",
       "sizes": "192x192",
       "type": "image/png"
     }],

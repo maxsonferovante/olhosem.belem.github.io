@@ -1,9 +1,11 @@
 :root { font-size: 16px; }
+
 *, *:after, *:before { margin: 0; padding: 0; }
 
 html, boby, main{
     position: relative;
     height: 100%;
+    width: 100%;
 }
 .main-detalhes {
     padding-top: 75px;
@@ -18,12 +20,7 @@ html, boby, main{
 body {
     display: block;
     background: #fff;
-    text-align: center;
 }
-#menu{
-    display: inline-block;
-}
-
 .header {
     
     width: 100%;
@@ -77,7 +74,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 400;
     margin-top: 10px;
-    margin-right: 100px;
+    margin-right: 10%;
     font-size: 24px;
     -webkit-box-flex: 1;
     -webkit-flex: 1;
@@ -108,6 +105,7 @@ section {
 }
 
 .left {
+    position: relative;
     display: inline-block;
     max-width: 1100px;
     margin: 0 auto;
@@ -120,10 +118,15 @@ section {
     padding-right: 0;
     margin-left: 0;
     margin-right: 0;
-    text-align: center;
+    
 }
 .left hr {
-    margin-left: 0;
+    width: 100%;
+    clear: both;
+    display: block;
+    border: none;
+    border-top: .35rem solid #000;
+    margin: 3rem 0 1.5rem;
 }
 .container {
     position: relative;
@@ -131,6 +134,8 @@ section {
     float: none;
     margin: 0 auto;
     max-width: 1300px;
+    
+
     font-size: 0;
     background: transparent;
 }
@@ -141,9 +146,9 @@ section {
     float: none;
     margin: 0;
     padding: 0;
-    max-width: 48%;
-    height: 380px;
-    width: 380px;
+    max-width: 98%;
+    height: 240px;
+    width: 360px;
     text-align: center;
     background: #eee;
     overflow: hidden;
@@ -151,14 +156,10 @@ section {
     transition: transform 0.25s cubic-bezier(0.625,0.125,0.305,0.875);
     transition: transform 0.25s cubic-bezier(0.625,0.125,0.305,0.875),-webkit-transform 0.25s cubic-bezier(0.625,0.125,0.305,0.875);
   }
-.tile-big {
-    max-width: 96%;
-    height: 320px;
-}
+.tile:nth-child(1),
 .tile:nth-child(2),
-.tile:nth-child(4),
-.tile:nth-child(6),
-.tile:nth-child(8) {
+.tile:nth-child(3),
+.tile:nth-child(4) {
  margin: 4% 0 0 4%;
 }
 .tile figure{
@@ -210,66 +211,34 @@ section {
 .tile a div {
     position: relative;
     vertical-align: middle;
-    display: inline-block;
-    padding: 4rem;
+    display: inline-flex;
+    padding: 1.5rem;
 }
 .tile h3 {
-    position: relative;
-    text-indent: 1%;
+    margin: 0 auto;
+    padding: 0;
     color: #fff;
-    padding: 0 0 3rem;
+    padding: 0 0 1rem;
     line-height: 1;
 }
 .tile a:hover h3, .tile a:focus h3 {
     display: block;
-  /*  padding: 0 10% 24px;*/
+ 
 }
-.tile hr {
-    width: 64px;
-    clear: both;
-    display: block;
-    border: none;
-    border-top: .35rem solid #000;
-    margin: 3rem 0 1.5rem;
+
+.topics h3{
+    text-align: left;
 }
-/*
-.detalhes{
-    position: relative;
-    display: inline-block;
-    float: none;
-    margin: 4%;
-    padding: 0;
-    max-width: 48%;
-    height: 380px;
-    width: 380px;
+main h1{
+    padding-left: 24%;
+    font-size: 4.8rem;
     text-align: center;
-    background: #eee;
-    overflow: hidden;
+    max-width: 100%;
 }
-.detalhes figure{
-    z-index: 0;
-    margin: 0 0 0 0;
-    position: absolute;
-    background-position: center;
-    background-size: cover;
-    background-attachment: scroll;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-}
-.detalhes h5{
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: 0;
-    margin-right: 0;
-    display: block;
-    position: absolute;
-    color: #fff;
-}
-*/
-h1 {
-    font-size: 7rem;
-    margin: 2% 2%;
+.main-detalhes h2, .topics h3{
+    margin: 2% 1% 1% 2%;
+    text-align: center;
+    padding-left: 4%;
 }
 h2 {
     font-size: 4rem;
@@ -282,31 +251,38 @@ h4 {
 }
   
 h1,h2,h3,p {
-    font-family: arial;
-    text-align: center;
+    font-family: arial;   
     color: #000;
-
+    position: relative;
+    vertical-align: middle;
+    display: inline-flex;
 }
-.topics h3{
-    text-align: left;
-    text-indent: 4%;
+p{
+    margin-left: 2.5%;
+    margin-right: 3%;
+    margin-bottom: 1%;
+    margin-top: 1%;
 }
-p,a, ul li {
+ul {
+    margin-left: 8%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+p,a,ul, li{
     font-size: 1.35rem;
 }
 p, ul, li{
     font-weight: 400;
     line-height: 1.65;
-    margin: 4% 4%;
     text-indent: 4%;
     text-align: justify;
 }
-ul li {
-    margin: 10px;
+ul, li {
     font-family: arial;
-    font-size: 16px;
 }
 footer {
+
+
     display: inline-block;
     float: none;
     margin: 0 auto;
@@ -320,4 +296,108 @@ footer {
     font-size: 1.15rem;
     padding: 0;
     text-align: center
+  }
+
+
+@media screen and (max-width: 900px) {
+    main h1{
+        padding-left: 22%;
+        font-size: 3.9rem;
+    }
+    h2 {
+        font-size: 2.9rem;
+    }
+    h3 {
+        font-size: 1.5rem;
+    }
+    h4 {
+        font-size: 1rem;
+    }      
+    p,a,ul,li{
+        font-size: 1.3rem;
+    }
+    .tile{
+        max-height: 88%;
+    }
+  .tile,
+  .tile:nth-child(1),
+  .tile:nth-child(2),
+  .tile:nth-child(3),
+  .tile:nth-child(4) {
+    width: 280px;
+    margin: 2% 0 0 2%;
+  }
+  .tile a div {
+    display: table-cell;
+    padding: 0 2rem;
+  }
+  }
+  
+@media screen and (max-width: 750px) {
+    main h1{
+        padding-left: 24%;
+        font-size: 3.2rem;
+    }
+    h2 {
+        font-size: 2.4rem;
+    }
+    h3 {
+        font-size: 1.2rem;
+    }
+    h4 {
+        font-size: .8rem;
+    }      
+    p,a,ul,li{
+        font-size: 1.2rem;
+    }
+    .tile{
+        max-height: 88%;
+    }
+  .tile,
+  .tile:nth-child(1),
+  .tile:nth-child(2),
+  .tile:nth-child(3),
+  .tile:nth-child(4) {
+    width: 260px;
+    margin: 2% 0 0 2%;
+  }
+}
+@media screen and (max-width: 550px) {
+    main h1 {
+        padding-left: 16%;
+    }
+
+}
+@media screen and (max-width: 350px) {
+    main h1{
+        font-size:2.5rem;
+        padding-left: 6%;
+    }
+    h2 {
+        font-size: 2rem;
+    }
+    h3 {
+        font-size: 1rem;
+    }
+    h4 {
+        font-size: .5rem;
+    }      
+    p,a,ul,li{
+        font-size: 1rem;
+    }
+    .tile{
+        max-height: 78%;
+    }
+  .tile,
+  .tile:nth-child(1),
+  .tile:nth-child(2),
+  .tile:nth-child(3),
+  .tile:nth-child(4) {
+    width: 260px;
+    margin: 2% 0 0 2%;
+  }
+  .tile a div {
+    display: table-cell;
+    padding: 0 2rem;
+  }
   }
